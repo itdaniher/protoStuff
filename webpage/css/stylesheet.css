@@ -1,0 +1,110 @@
+html {
+	overflow-y: scroll;
+}
+
+body {
+  text-align: center;
+  font-family: arial, sans-serif;
+  font-size: 100%;
+  }
+
+hr{
+  border: 0;
+  width: 100%;
+  color: #7c7b7b;
+  background-color: #7c7b7b;
+  height: 1px;
+}
+
+  
+a:link{ 
+	color: #000000;
+	}
+
+a:visited{ 
+	color: #000000;
+	}
+
+a:link#header_text { 
+	color: #7F7F7F;
+	text-decoration: none;
+	}
+
+a:visited#header_text { 
+	color: #7F7F7F;
+	text-decoration: none;
+	}
+
+a:hover#header_text { 
+	color: #65C465;
+	text-decoration: none;
+	}
+
+a:hover { 
+	color: #65C465;
+	text-decoration: none;
+	}
+
+a:active { 
+	color: #7F7F7F;
+	}
+
+#everything {
+  margin: 0 auto;
+  width: 800px;
+  }
+
+#header_text {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+#top_text{
+    font-size: 1.25em;
+    font-weight: normal;
+}
+
+#footer_text{
+    font-size: 0.75em;
+    font-weight: normal;
+    color: #7F7F7F;
+}
+
+p.update{
+    text-align:left;
+    font-weight:bold;
+}
+
+p.updateText{
+    text-align:left;
+    
+}
+
+p.author{
+    text-align:right;
+    font-size:0.75 em;
+    font-style:italic;
+}
+
+p#tenets{
+    text-align:left;
+    margin-left: 300px;
+    font-weight:bold;
+}
+
+.tagcloud {
+  font-weight: bolder;
+  line-height: 1.4em;
+}
+
+.tagcloud li {
+  display: inline;
+  white-space: nowrap;
+  padding: 10;
+  margin: 0;
+}
+
+.tagcloud li a {
+  padding: 0 0.2em 0 0.2em;
+  text-decoration: none;
+}

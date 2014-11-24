@@ -1,0 +1,65 @@
+3D printing,35,http://en.wikipedia.org/wiki/3d_printing
+ACME screw,5,http://en.wikipedia.org/wiki/Acme_thread_form
+algae,5,
+aluminum creations,25,
+amplifier,25,
+analog filter,25,
+Arduino,75,http://www.arduino.cc/
+ATmega328,65,http://www.atmel.com/dyn/resources/prod_documents/8271S.pdf
+Atmel,85,http://www.atmel.com/
+ATtiny45,85,http://www.atmel.com/dyn/resources/prod_documents/2586S.pdf
+Audacity,15,http://audacity.sourceforge.net/
+bandsaw,10,http://en.wikipedia.org/wiki/Bandsaw
+BASh,30,http://www.gnu.org/software/bash
+beefy motors,15,
+bioreactor,10,
+Blender,5,http://www.blender.org/
+board design,45,
+C,60,http://en.wikipedia.org/wiki/C_%28programming_language%29
+C++,90,http://www.cplusplus.com/
+CAN,15,http://en.wikipedia.org/wiki/Controller_area_network
+CNC,35,http://en.wikipedia.org/wiki/Controller_area_network
+CSS,15,http://en.wikipedia.org/wiki/Cascading_Style_Sheets
+Dremel,20,http://www.dremel.com/Pages/default.aspx
+Eagle PCB,80,http://www.cadsoftusa.com/
+embedded systems,75,
+FOSS,20,
+G-code,55,http://en.wikipedia.org/wiki/G-code
+GIMP,30,http://www.gimp.org/
+google,20,http://www.google.com/
+h bridge,15,http://en.wikipedia.org/wiki/H-bridge
+heating elements,15,
+I2C,75,http://en.wikipedia.org/wiki/I%C2%B2C
+Inkscape,80,http://www.inkscape.org/
+Java,45,http://java.sun.com/
+LAMP,60,http://en.wikipedia.org/wiki/LAMP_%28software_bundle%29
+LASER,15,
+lathe,10,http://en.wikipedia.org/wiki/Lathe
+Linux,80,http://en.wikipedia.org/wiki/Linux
+Makerbot,40,http://wiki.makerbot.com/cupcake
+mbed,15,http://mbed.org/
+PCB fabrication,15,
+Perl,30,http://www.perl.org/
+photodiode,50,http://en.wikipedia.org/wiki/Photodiode
+Photoshop,15,http://www.photoshop.com/
+PIC,15,http://www.microchip.com/
+PID,20,http://en.wikipedia.org/wiki/PID_controller
+printer,25,
+PS3 Eye,10,http://en.wikipedia.org/wiki/PlayStation_Eye
+Python,90,http://www.python.org/
+sensing,35,
+speakers,20,
+SPI,20,http://en.wikipedia.org/wiki/Serial_Peripheral_Interface_Bus
+stepper,35,http://en.wikipedia.org/wiki/Stepper_motor
+sugru,20,http://sugru.com/
+surface mount,30,http://en.wikipedia.org/wiki/Surface-mount_technology
+SVN,15,http://subversion.apache.org/
+system design,35,
+tag clouds,5,tagcloud/tagcloud.py
+thermocouple,10,http://en.wikipedia.org/wiki/Thermocouple
+Ubuntu,25,http://www.ubuntu.com/
+usb,35,
+webcam,45,
+win32,35,http://en.wikipedia.org/wiki/Windows_API
+Wings3d,40,http://www.wings3d.com/
+XHTML,25,http://www.w3.org/TR/xhtml1/
